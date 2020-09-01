@@ -1,1 +1,4 @@
-##my first repo
+## my first repo
+```PHP
+echo "hello world";
+```
